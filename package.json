@@ -1,6 +1,6 @@
 {
   "name": "use-bg-cursor-pos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple React hook to add a 'cursor spotlight' effect to a DOM element",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
