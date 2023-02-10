@@ -1,0 +1,25 @@
+{
+  "name": "use-bg-cursor-pos",
+  "version": "1.0.0",
+  "description": "A simple React hook to add a 'cursor spotlight' effect to a DOM element",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "https://github.com/tdjsnelling/use-bg-cursor-pos",
+  "author": "Tom Snelling (@tdjsnelling)",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
