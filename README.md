@@ -29,6 +29,8 @@ The `useBackgroundCursorPosition` hook takes 4 arguments:
 
 [CodeSandbox](https://codesandbox.io/s/sad-satoshi-75rbin)
 
+<img width="868" alt="Screenshot example" src="https://user-images.githubusercontent.com/6264509/218128176-e0b8ed4c-df9b-4eea-abca-d2d7cc823515.png">
+
 ## License
 
 MIT
