@@ -21,5 +21,14 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "react",
+    "hover",
+    "highlight",
+    "effect",
+    "background",
+    "hook",
+    "typescript"
   ]
 }
